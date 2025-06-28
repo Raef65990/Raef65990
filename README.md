@@ -34,7 +34,9 @@ Jizan University
 - Lean Six Sigma Black Belt  
 - AI-Assisted Root Cause Analysis (EasyRCA)  
 - OSHA-30  
-- Project Management (training completed)
+- Project Management
+- Machine Learning
+- Power BI
 
 
 ---
