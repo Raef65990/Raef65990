@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- # Raef Alawi | Lean Six Sigma Black Belt | Process Engineer
+ # OPEx| Lean Six Sigma Black Belt | Process Engineer 
 
 📧 eng.raefalawi@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/raef-alawi-483369113)  
@@ -23,18 +23,19 @@ Highlights:
 **Analyze** — Identify root causes using tools like Pareto charts and fishbone diagrams  
 **Improve** — Implement solutions collaboratively  
 **Control** — Sustain improvements through SOPs, training, and dashboards  
-
 ---
+## Education  
+🎓 **Master of Science, Engineering Management**  
+Florida Institute of Technology  
+🎓 **Bachelor of Science, Industrial Engineering**  
+Jizan University  
+---
+## Certifications  
+- Lean Six Sigma Black Belt  
+- AI-Assisted Root Cause Analysis (EasyRCA)  
+- OSHA-30  
+- Project Management (training completed)
 
-## Projects  
-### Reducing Steel Production Defects  
-- Used DMAIC, SPC, and Minitab to reduce defects by 15%  
-
-### $2M Annual Savings  
-- Applied VSM and Kaizen to eliminate process waste, saving $2M  
-
-### Shift Handover Time Reduction  
-- Standardized SOPs and applied Kaizen, reducing shift handover from 45 to 15 min  
 
 ---
 
