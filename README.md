@@ -37,6 +37,7 @@ Jizan University
 - Project Management
 - Machine Learning
 - Power BI
+- Change Management
 
 
 ---
